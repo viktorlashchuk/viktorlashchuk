@@ -48,23 +48,6 @@
 </div>
 <br>
 
-###
-
-<h2 align="left">🤳 Reach me on</h2>
-
-###
-
-<div align="left">
-<p>You can reach me at below social media</p>
-  <a href="www.linkedin.com/in/viktor-lashchuk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35"/></a>
-  <a href="https://www.instagram.com/viktor_lashchuk"><img src="https://www.svgrepo.com/show/13639/instagram.svg" width="47" height="35"/></a>
-  <a href="https://x.com/viktor_lashchuk"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"/></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-</div>
-<br>
-
-###
-
 <h2 align="left">📈 My Github Statistic</h2>
 
 ###
